@@ -1,1 +1,1 @@
-# house_prediction
+# category_prediction_model
